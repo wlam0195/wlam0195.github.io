@@ -1,0 +1,18 @@
+h1 {
+	color: red;
+	font-size: 40px;
+}
+
+img {
+	width: 300px;
+	opacity: 0.2;
+}
+
+p {
+	width: 500px;
+}
+
+ol {
+	background-color: rgb(220,220,220);
+	width: 400px;
+}
