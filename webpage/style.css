@@ -1,0 +1,74 @@
+.background {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100vw;
+	height: 100vh;
+	background-image: url ("background.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+ 
+
+.information {  
+	position: absolute;
+	font-family: 'Montserrat', sans-serif
+	left: 400px;
+	width: 800px;
+}
+
+h1 {
+	position: absolute;
+	font-family: 'Montserrat', sans-serif
+	font-size: 30px;
+	font-weight: bold;
+	top: 300px;
+}
+
+h2 {
+	position: absolute;
+	font-family: 'Montserrat', sans-serif
+	font-size: 30px;
+	font-weight: bold;
+	top: 270px;
+}
+
+h3 {
+	position: absolute;
+	font-family: 'Montserrat', sans-serif
+	font-size: 30px;
+	font-weight: medium;
+	top: 400px;
+}
+
+h4 {
+	position: absolute;
+	font-family: 'Montserrat', sans-serif
+	font-size: 30px;
+	font-weight: medium;
+	top: 470px;
+}
+
+h5 {
+	position: absolute;
+	font-family: 'Montserrat', sans-serif
+	font-size: 50px;
+	font-weight: medium;
+	top: 400px;
+}
+
+p {
+	position: absolute;
+	font-family: 'Montserrat', sans-serif
+	font-size: 30px;
+	font-weight: medium;
+	top: 550px;
+
+}
+
+
+@media (max-width: 375px) {
+	h1 {
+		font-size: 36px;
+	}
+}
