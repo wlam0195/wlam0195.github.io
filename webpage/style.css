@@ -4,71 +4,84 @@
 	left: 0;
 	width: 100vw;
 	height: 100vh;
-	background-image: url ("background.png");
+	background-image: url("background.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+
+ }
+
+.picture {
+	background-image: url(2020.png);
 	background-size: contain;
 	background-repeat: no-repeat;
 	background-position: center;
- 
-
-.information {  
+	width: 640px;
+	height: 731px;
 	position: absolute;
-	font-family: 'Montserrat', sans-serif
-	left: 400px;
-	width: 800px;
+	top: 60px;
+	left: 620px;
+} 
+
+.rule {
+	position: absolute;
+	height: 15.4026px;
+	width: 96.2272px;
+	background-color: red;
+	top: 515px;
+	left: 116px;
+	opacity: 0.6;
+}
+
+.title {  
+	position: absolute;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 10vw;
+	left: 112px;
+	top: 345px;
+	width: 800px
+	font-weight: bold;
+	color: white;
+	font-size: 20px;
+}
+
+.info { 
+	position: absolute;
+	font-family: 'Montserrat', sans-serif;
+	left: 118px;
+	top: 510px;
+	width: 800px
+	font-weight: normal;
+	color: white;
+	font-size: 18px;
+}
+
+.teal {
+	color: rgb(101, 200, 208);
+}
+
+#admission { 
+	position: absolute;
+	font-family: 'Montserrat', sans-serif;
+	left: 118px;
+	top: 680px;
+	width: 800px
+	font-weight: normal;
+	color: white;
+	font-size: 12px;
 }
 
 h1 {
-	position: absolute;
-	font-family: 'Montserrat', sans-serif
-	font-size: 30px;
-	font-weight: bold;
-	top: 300px;
-}
+	margin-top: -10px;
 
-h2 {
-	position: absolute;
-	font-family: 'Montserrat', sans-serif
-	font-size: 30px;
-	font-weight: bold;
-	top: 270px;
-}
+} 
 
-h3 {
-	position: absolute;
-	font-family: 'Montserrat', sans-serif
-	font-size: 30px;
-	font-weight: medium;
-	top: 400px;
-}
-
-h4 {
-	position: absolute;
-	font-family: 'Montserrat', sans-serif
-	font-size: 30px;
-	font-weight: medium;
-	top: 470px;
-}
-
-h5 {
-	position: absolute;
-	font-family: 'Montserrat', sans-serif
-	font-size: 50px;
-	font-weight: medium;
-	top: 400px;
-}
-
-p {
-	position: absolute;
-	font-family: 'Montserrat', sans-serif
-	font-size: 30px;
-	font-weight: medium;
-	top: 550px;
+@media (max-width: 554px) {
 
 }
-
 
 @media (max-width: 375px) {
 	h1 {
-		font-size: 36px;
+		font-size: 10vw;
 	}
 }
