@@ -1,0 +1,188 @@
+.background {
+	position: absolute;
+	top: 160px;
+	left: 190px;
+	width: 75vw;
+	height: 75vh;
+	background-image: url("map.png");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: contain;
+}
+
+.point {
+	position: absolute;
+	background-image: url(point.png);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	width: 60px;
+	height: 60px;
+	top: 440px;
+	left: 360px;
+}
+
+.point2 {
+	position: absolute;
+	background-image: url(point.png);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	width: 60px;
+	height: 60px;
+	top: 330px;
+	left: 800px;
+}
+
+.point3 {
+	position: absolute;
+	background-image: url(point.png);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	width: 60px;
+	height: 60px;
+	top: 460px;
+	left: 890px;
+}
+
+.point4 {
+	position: absolute;
+	background-image: url(point.png);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	width: 60px;
+	height: 60px;
+	top: 440px;
+	left: 970px;
+}
+
+.point4 {
+	position: absolute;
+	background-image: url(point.png);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	width: 60px;
+	height: 60px;
+	top: 440px;
+	left: 970px;
+}
+
+.point5 {
+	position: absolute;
+	background-image: url(point.png);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	width: 60px;
+	height: 60px;
+	top: 370px;
+	left: 670px;
+}
+
+.point6 {
+	position: absolute;
+	background-image: url(point.png);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	width: 60px;
+	height: 60px;
+	top: 580px;
+	left: 515px;
+}
+
+.point7 {
+	position: absolute;
+	background-image: url(point.png);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	width: 60px;
+	height: 60px;
+	top: 618px;
+	left: 1050px;
+}
+
+.point8 {
+	position: absolute;
+	background-image: url(point.png);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	width: 60px;
+	height: 60px;
+	top: 635px;
+	left: 473px;
+}
+
+.heading {
+	position: absolute;
+	font-family: acumin-pro-wide, sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	font-size: 1.5vw;
+	left: 50px;
+	top: 50px;
+	width: 800px
+	color: black;
+}
+
+.description {
+	position: absolute;
+	font-family: acumin-pro-wide, sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	font-size: .5vw;
+	left: 50px;
+	top: 100px;
+	width: 800px
+	font-weight: 400;
+	color: black;
+}
+
+p {
+	position: absolute;
+	font-family: acumin-pro-wide, sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	top: 130px;
+	left: 54px;
+}
+
+
+
+.directionary {
+	font-family: acumin-pro-wide, sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	font-size: 1vw;
+	width: 800px
+	color: black;
+	top: 5px;
+}
+
+.home {
+	left: 700px;
+}
+
+.faq {
+	left: 860px;
+}
+
+.contact {
+	left: 980px;
+}
+
+.submission {
+	left: 980px;
+	
+}
+
+
+
+
+
+
