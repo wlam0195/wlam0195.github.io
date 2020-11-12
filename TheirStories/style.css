@@ -1,0 +1,171 @@
+.background {
+	position: absolute;
+	top: 265px;
+	left: 45px;
+	width: 1315px;
+	height: 570px;
+	background-image: url("map.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin: 0;
+	padding: 0;
+}
+
+.heading {
+	position: absolute;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 500;
+	font-size: 40px;
+	top: 90px;
+	left: 410px;
+	width: 800px
+	color: black;
+}
+
+.quote {
+	position: absolute;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 200;
+	font-style: italic;
+	left: 500px;
+	top: 170px;
+
+} 
+
+.stories {
+	position: absolute;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 25px;
+	font-weight: 600;
+	font-style: normal;
+	left: 40px;
+	top: 5px;
+
+} 
+
+.navigation {
+	position: relative;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	left: 900px;
+	top: -85px;
+	display: navigation;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+
+li {
+	display: inline;
+}
+
+a { 
+    padding: 10px 20px;
+}
+
+a:link {
+  text-decoration: none;
+  color: black;
+}
+
+
+.asia {
+	position: absolute;
+	background-image: url(point.png);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	width: 60px;
+	height: 60px;
+	top: 370px;
+	left: 50px;
+
+}
+
+.centralam {
+	position: absolute;
+	background-image: url(point.png);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	width: 60px;
+	height: 60px;
+	top: 430px;
+	left: 570px;
+
+}
+
+.middleeast {
+	position: absolute;
+	background-image: url(point.png);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	width: 60px;
+	height: 60px;
+	top: 400px;
+	left: 1140px;
+}
+
+.southam {
+	position: absolute;
+	background-image: url(point.png);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	width: 60px;
+	height: 60px;
+	top: 550px;
+	left: 700px;
+}
+
+.australia {
+	position: absolute;
+	background-image: url(point.png);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	width: 60px;
+	height: 60px;
+	top: 620px;
+	left: 155px;
+}
+
+.africa {
+	position: absolute;
+	background-image: url(point.png);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	width: 60px;
+	height: 60px;
+	top: 490px;
+	left: 980px;
+}
+
+.europe {
+	position: absolute;
+	background-image: url(point.png);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	width: 60px;
+	height: 60px;
+	top: 310px;
+	left: 1010px;
+}
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
