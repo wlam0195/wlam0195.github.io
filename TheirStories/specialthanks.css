@@ -1,0 +1,95 @@
+ .background {
+	position: absolute;
+	top: 215px;
+	width: 3100px;
+	height: 560px;
+	background-image: url("map.jpg");
+	background-repeat: no-repeat;
+	background-size: contain;
+	left: 200px;
+}
+
+.heading {
+	position: absolute;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 300;
+	font-size: 18px;
+	font-style: normal;
+	top: 240px;
+	left: 390px;
+	width: 800px
+	color: black;
+}
+
+.names {
+	position: absolute;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 500;
+	font-size: 35px;
+	font-style: normal;
+	left: 365px;
+	top: 250px;
+	text-align: center;
+
+} 
+
+.stories {
+	position: absolute;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 25px;
+	font-weight: 600;
+	font-style: normal;
+	left: 38px;
+	top: 33px;
+
+} 
+
+.navigation {
+	position: absolute;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 300;
+	left: 1050px;
+	top: 43px;
+}
+
+li {
+	display: inline;
+}
+
+a { 
+    padding: 10px;
+}
+
+a:link {
+  text-decoration: none;
+  color: black;
+}
+
+a:visited {
+	color: black;
+}
+
+
+.background {
+	position: absolute;
+	top: 650px;
+	left: 640px;
+	width: 130px;
+	height: 130px;
+	background-image: url("logo.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: contain;
+
+ }
+ 
+.signup {
+	position: absolute;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	width: 1000px;
+	left: 570px;
+	top: 650px;
+
+}
