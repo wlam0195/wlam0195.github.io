@@ -1,0 +1,99 @@
+body {
+	width: 100vw;
+	overflow-x: hidden;
+	background-color: white;
+}
+
+.heading {
+	position: absolute;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 500;
+	font-size: 70px;
+	top: 210px;
+	left: 350px;
+	width: 800px
+	color: black;
+}
+ 
+.description {
+	position: absolute;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 300; 
+	font-size: 20px;
+	font-style: italic;
+	left: 420px;
+	top: 350px;
+}
+
+.location {
+	position: absolute;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 300; 
+	font-size: 20px;
+	font-style: italic;
+	left: 1200px;
+	top: 244px;
+}
+
+
+.stories {
+	position: absolute;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 25px;
+	font-weight: 600;
+	font-style: normal;
+	left: 34px;
+	top: 33px;
+
+} 
+
+.navigation {
+	position: absolute;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 300;
+	left: 1050px;
+	top: 43px;
+}
+
+li {
+	display: inline;
+}
+
+a { 
+    padding: 10px;
+}
+
+a:link {
+  text-decoration: none;
+  color: black;
+}
+
+a:visited {
+	color: black;
+}
+
+
+.background {
+	position: absolute;
+	top: 650px;
+	left: 640px;
+	width: 130px;
+	height: 130px;
+	background-image: url("logo.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: contain;
+
+ }
+
+ .signup {
+	position: absolute;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	width: 1000px;
+	left: 570px;
+	top: 650px;
+
+}
+ 
