@@ -1,0 +1,136 @@
+body {
+	width: 100vw;
+	height: 100vw;
+	overflow: hidden;
+}
+
+.logo {
+	position: absolute;
+	background-image: url(point.png);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	width: 90px;
+	height: 90px;
+	top: 136px;
+	left: 18px;
+}
+
+
+.heading {
+	position: absolute;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 40px;
+	top: 103px;
+	left: 100px;
+	width: 800px
+	color: black;
+}
+
+.location {
+	position: absolute;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 200; 
+	font-size: 20px;
+	font-style: italic;
+	left: 104px;
+	top: 178px;
+
+} 
+
+.stories {
+	position: absolute;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 25px;
+	font-weight: 600;
+	font-style: normal;
+	left: 40px;
+	top: 31px;
+
+} 
+
+.navigation {
+	position: absolute;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 300;
+	left: 990px;
+	top: 28px;
+}
+
+li {
+	display: inline;
+}
+
+a { 
+    padding: 10px;
+}
+
+a:link {
+  text-decoration: none;
+  color: black;
+}
+
+a:visited {
+	color: black;
+}
+
+.subhead {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 25px;
+	font-weight: 600;
+	font-style: normal;
+} 
+
+.description {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 15px;
+	font-weight: 300;
+	font-style: normal;
+	line-height: 25px;
+}
+
+.text {
+	position: absolute;
+	top: 222px;
+	left: 650px;
+	width: 500px;	
+
+}
+
+.source {
+	position: absolute;
+	top: 645px;
+	left: 240px;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 15px;
+	font-weight: 300;
+	font-style: normal;
+	line-height: 25px;
+}
+
+.picture {
+	position: absolute;
+	background-image: url(italian3.png);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	width: 550px;
+	height: 533px;
+	top: 186px;
+	left: 49px;
+} 
+
+.background {
+	position: absolute;
+	top: 500px;
+	left: 1000px;
+	height: 600px;
+	width: 600px;
+	background-image: url("europe.png");
+	background-repeat: no-repeat;
+	background-size: contain;
+	transform: rotate(-86deg);
+
+}
