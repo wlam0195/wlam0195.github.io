@@ -1,0 +1,261 @@
+body {
+	width: 100vw;
+	overflow-x: hidden;
+	background-color: white;
+}
+
+.backgroundimg {
+	position: relative;
+	background-image: url(africa.png);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	width: 770px;
+	height: 500px;
+	top: 230px;
+	left: 300px;
+	transition: all 0.15s ease-in-out;
+}
+
+.heading {
+	position: absolute;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 500;
+	font-size: 40px;
+	left: 550px;
+	top: 90px;
+	text-align: center;
+	width: 800px
+	color: black;
+} 
+
+.description {
+	position: absolute;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 300; 
+	font-size: 20px;
+	font-style: italic;
+	left: 570px;
+	top: 165px;
+}
+
+.location {
+	position: absolute;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 300; 
+	font-size: 20px;
+	font-style: italic;
+	left: 1200px;
+	top: 244px;
+}
+
+
+.stories {
+	position: absolute;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 25px;
+	font-weight: 600;
+	font-style: normal;
+	left: 34px;
+	top: 33px;
+
+} 
+
+.navigation {
+	position: absolute;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 300;
+	left: 1050px;
+	top: 43px;
+}
+
+li {
+	display: inline;
+}
+
+a { 
+    padding: 10px;
+}
+
+a:link {
+  text-decoration: none;
+  color: black;
+}
+
+a:visited {
+	color: black;
+}
+
+.north {
+	position: absolute;
+	background-image: url(point.png);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	width: 60px;
+	height: 60px;
+	top: 300px;
+	left: 640px;
+	transition: all 0.15s ease-in-out;
+}
+
+.central:hover {
+	top: 290px;
+}
+
+.central {
+	position: absolute;
+	background-image: url(point.png);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	width: 60px;
+	height: 60px;
+	top: 480px;
+	left: 680px;
+	transition: all 0.15s ease-in-out;
+}
+
+.central:hover {
+	top: 470px;
+}
+
+.east {
+	position: absolute;
+	background-image: url(point.png);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	width: 60px;
+	height: 60px;
+	top: 410px;
+	left: 760px;
+	transition: all 0.15s ease-in-out;
+}
+
+.east:hover {
+	top: 400px;
+}
+
+
+.south {
+	position: absolute;
+	background-image: url(point.png);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	width: 60px;
+	height: 60px;
+	top: 620px;
+	left: 695px;
+	transition: all 0.15s ease-in-out;
+}
+
+.south:hover {
+	top: 610px;
+}
+
+.west {
+	position: absolute;
+	background-image: url(point.png);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	width: 60px;
+	height: 60px;
+	top: 370px;
+	left: 550px;
+	transition: all 0.15s ease-in-out;
+}
+
+.west:hover {
+	top: 360px;
+}
+
+.title {
+	position: relative;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 500;
+	font-size: 18px;
+	color: black;
+}
+
+
+.displaynorthinfo {
+	position: absolute;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 300; 
+	font-size: 18px;
+	left: 940px;
+	top: 300px;
+	text-height: 60px;
+	opacity: 0;
+}
+
+.show {
+	opacity: 1;
+} 
+
+.displayeastinfo {
+	position: absolute;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 300; 
+	font-size: 18px;
+	left: 940px;
+	top: 380px;
+	text-height: 60px;
+	opacity: 0;
+}
+
+.show {
+	opacity: 1;
+} 
+
+.displaysouthinfo {
+	position: absolute;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 300; 
+	font-size: 18px;
+	left: 360px;
+	top: 610px;
+	text-height: 60px;
+	opacity: 0;
+	color: black;
+}
+
+.show {
+	opacity: 1;
+
+}
+
+.displaycentralinfo {
+	position: absolute;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 300; 
+	font-size: 18px;
+	left: 990px;
+	top: 550px;
+	text-height: 60px;
+	opacity: 0;
+	color: black;
+}
+
+.show {
+	opacity: 1;
+}
+
+.displaywestinfo {
+	position: absolute;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 300; 
+	font-size: 18px;
+	left: 150px;
+	top: 400px;
+	text-height: 60px;
+	opacity: 0;
+	color: black;
+}
+
+.show {
+	opacity: 1;
+} 
