@@ -1,0 +1,217 @@
+body {
+	width: 100vw;
+	overflow-x: hidden;
+	background-color: white;
+}
+
+.background {
+	position: absolute;
+	top: 215px;
+	width: 3100px;
+	height: 560px;
+	background-image: url("maps.png");
+	background-repeat: no-repeat;
+	background-size: contain;
+	left: 200px;
+}
+
+.heading {
+	position: absolute;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 500;
+	font-size: 40px;
+	top: 90px;
+	left: 410px;
+	width: 800px
+	color: black;
+}
+
+.quote {
+	position: absolute;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 300;
+	font-style: italic;
+	left: 500px;
+	top: 170px;
+
+} 
+
+.stories {
+	position: absolute;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 25px;
+	font-weight: 600;
+	font-style: normal;
+	left: 38px;
+	top: 33px;
+
+} 
+
+.navigation {
+	position: relative;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	right: -1050px;
+	top: -110px;
+	color: black;
+	width: 500px;
+}
+
+li {
+	display: inline;
+}
+
+a { 
+    padding: 10px; 
+}
+
+a:link {
+  text-decoration: none;
+  color: black;
+}
+
+a:visited {
+	color: black;
+}
+
+.asia {
+	position: absolute;
+	background-image: url(point.png);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	width: 60px;
+	height: 60px;
+	top: 430px;
+	left: 870px;
+	transition: all 0.15s ease-in-out;
+
+}
+
+.asia:hover {
+	top: 410px;
+}
+
+.centralam {
+	position: absolute;
+	background-image: url(point.png);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	width: 60px;
+	height: 60px;
+	top: 460px;
+	left: 345px;
+	transition: all 0.15s ease-in-out;
+
+}
+
+.centralam:hover {
+	top: 450px;
+}
+
+.middleeast {
+	position: absolute;
+	background-image: url(point.png);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	width: 60px;
+	height: 60px;
+	top: 450px;
+	left: 755px;
+	transition: all 0.15s ease-in-out;
+
+}
+
+.middleeast:hover {
+	top: 440px;
+}
+
+.southam {
+	position: absolute;
+	background-image: url(point.png);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	width: 60px;
+	height: 60px;
+	top: 580px;
+	left: 470px;
+	transition: all 0.15s ease-in-out;
+
+}
+
+.southam:hover {
+	top: 570px;
+}
+
+.africa {
+	position: absolute;
+	background-image: url(point.png);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	width: 60px;
+	height: 60px;
+	left: 695px;
+	top: 530px;
+	transition: all 0.15s ease-in-out;
+
+}
+
+.africa:hover {
+	top: 520px;
+}
+
+.australia {
+	position: absolute;
+	background-image: url(point.png);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	width: 60px;
+	height: 60px;
+	top: 630px;
+	left: 1030px;
+	transition: all 0.15s ease-in-out;
+
+}
+
+.australia:hover {
+	top: 620px;
+}
+
+.europe {
+	position: absolute;
+	background-image: url(point.png);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	width: 60px;
+	height: 60px;
+	top: 400px;
+	left: 690px;
+	transition: all 0.15s ease-in-out;
+
+}
+
+.europe:hover {
+	top: 390px;
+}
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
