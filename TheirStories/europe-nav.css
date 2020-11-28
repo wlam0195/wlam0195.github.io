@@ -1,0 +1,229 @@
+body {
+	width: 100vw;
+	overflow-x: hidden;
+	background-color: white;
+}
+
+.backgroundimg {
+	position: relative;
+	background-image: url(europe3.png);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	width: 700px;
+	height: 550px;
+	top: 190px;
+	left: 375px;
+	transition: all 0.15s ease-in-out;
+}
+
+.heading {
+	position: absolute;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 500;
+	font-size: 40px;
+	left: 550px;
+	top: 90px;
+	text-align: center;
+	width: 800px
+	color: black;
+} 
+
+.description {
+	position: absolute;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 300; 
+	font-size: 20px;
+	font-style: italic;
+	left: 570px;
+	top: 165px;
+}
+
+.location {
+	position: absolute;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 300; 
+	font-size: 20px;
+	font-style: italic;
+	left: 1200px;
+	top: 244px;
+}
+
+
+.stories {
+	position: absolute;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 25px;
+	font-weight: 600;
+	font-style: normal;
+	left: 34px;
+	top: 33px;
+
+} 
+
+.navigation {
+	position: absolute;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 300;
+	left: 1050px;
+	top: 43px;
+}
+
+li {
+	display: inline;
+}
+
+a { 
+    padding: 10px;
+}
+
+a:link {
+  text-decoration: none;
+  color: black;
+}
+
+a:visited {
+	color: black;
+}
+
+.north {
+	position: absolute;
+	background-image: url(point.png);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	width: 60px;
+	height: 60px;
+	top: 320px;
+	left: 755px;
+	transition: all 0.15s ease-in-out;
+}
+
+.north:hover {
+	top: 310px;
+}
+
+.east {
+	position: absolute;
+	background-image: url(point.png);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	width: 60px;
+	height: 60px;
+	top: 490px;
+	left: 840px;
+	transition: all 0.15s ease-in-out;
+}
+
+.east:hover {
+	top: 480px;
+}
+
+
+.south {
+	position: absolute;
+	background-image: url(point.png);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	width: 60px;
+	height: 60px;
+	top: 540px;
+	left: 690px;
+	transition: all 0.15s ease-in-out;
+}
+
+.south:hover {
+	top: 530px;
+}
+
+
+.west {
+	position: absolute;
+	background-image: url(point.png);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	width: 60px;
+	height: 60px;
+	top: 520px;
+	left: 450px;
+	transition: all 0.15s ease-in-out;
+}
+
+.west:hover {
+	top: 510px;
+}
+
+.title {
+	position: relative;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 500;
+	font-size: 18px;
+	color: black;
+}
+
+.displaynorthinfo {
+	position: absolute;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 300; 
+	font-size: 18px;
+	left: 1110px;
+	top: 220px;
+	text-height: 60px;
+	opacity: 0;
+}
+
+.show {
+	opacity: 1;
+} 
+
+
+.displayeastinfo {
+	position: absolute;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 300; 
+	font-size: 18px;
+	left: 1110px;
+	top: 500px;
+	text-height: 60px;
+	opacity: 0;
+}
+
+.show {
+	opacity: 1;
+} 
+
+.displaysouthinfo {
+	position: absolute;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 300; 
+	font-size: 18px;
+	left: 80px;
+	top: 530px;
+	text-height: 60px;
+	opacity: 0;
+	color: black;
+}
+
+.show {
+	opacity: 1;
+
+}
+
+.displaywestinfo {
+	position: absolute;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 300; 
+	font-size: 18px;
+	left: 80px;
+	top: 380px;
+	text-height: 60px;
+	opacity: 0;
+	color: black;
+}
+
+.show {
+	opacity: 1;
+} 
