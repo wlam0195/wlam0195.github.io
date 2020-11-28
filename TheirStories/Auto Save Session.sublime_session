@@ -1,0 +1,1406 @@
+{
+	"folder_history":
+	[
+	],
+	"last_version": 3211,
+	"last_window_id": 746,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 802.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"lin",
+						"line-height\tproperty"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/wlam/Desktop/TheirStories/westasia.html",
+				"/Users/wlam/Desktop/TheirStories/westasia.css",
+				"/Users/wlam/Desktop/TheirStories/westafrica.css",
+				"/Users/wlam/Desktop/TheirStories/westafrica.html",
+				"/Users/wlam/Desktop/TheirStories/southasia-R1C3.html",
+				"/Users/wlam/Desktop/TheirStories/southeastasia.html",
+				"/Users/wlam/Desktop/TheirStories/southam-R1C3.css",
+				"/Users/wlam/Desktop/TheirStories/southam-R1C3.html",
+				"/Users/wlam/Desktop/TheirStories/southam-R1C2.html",
+				"/Users/wlam/Desktop/TheirStories/southam-R1C1.html",
+				"/Users/wlam/Desktop/TheirStories/eastasia-R1C2.css",
+				"/Users/wlam/Desktop/TheirStories/eastasia-R1C2.html",
+				"/Users/wlam/Desktop/TheirStories/eastasia-R1C1.css",
+				"/Users/wlam/Desktop/TheirStories/eastasia-R1C1.html",
+				"/Users/wlam/Desktop/TheirStories/eatasia-R1C3.ss",
+				"/Users/wlam/Desktop/TheirStories/eastasia-R1C3.htmk",
+				"/Users/wlam/Desktop/TheirStories/northeurope.css",
+				"/Users/wlam/Desktop/TheirStories/southeastasia.css",
+				"/Users/wlam/Desktop/TheirStories/africa-nav.js",
+				"/Users/wlam/Desktop/TheirStories/asia-nav.js",
+				"/Users/wlam/Desktop/TheirStories/asia-nav.css",
+				"/Users/wlam/Desktop/TheirStories/asia-nav.html",
+				"/Users/wlam/Desktop/TheirStories/europe-nav.html",
+				"/Users/wlam/Desktop/TheirStories/europe-R1C2.html",
+				"/Users/wlam/Desktop/TheirStories/europe-R1C1.css",
+				"/Users/wlam/Desktop/TheirStories/europe-R1C1.html",
+				"/Users/wlam/Desktop/TheirStories/europe.html",
+				"/Users/wlam/Desktop/TheirStories/europe-style.css",
+				"/Users/wlam/Desktop/TheirStories/centralam-style.css",
+				"/Users/wlam/Desktop/TheirStories/centralam.html",
+				"/Users/wlam/Desktop/TheirStories/centralam-R2C2.html",
+				"/Users/wlam/Desktop/TheirStories/centralam-R2C2.css",
+				"/Users/wlam/Desktop/TheirStories/europe-navigation.css",
+				"/Users/wlam/Desktop/TheirStories/europe-navigation.html",
+				"/Users/wlam/Desktop/TheirStories/australia-style.css",
+				"/Users/wlam/Desktop/TheirStories/centralam-R1C1.css",
+				"/Users/wlam/Desktop/TheirStories/centralam-R1C1.html",
+				"/Users/wlam/Desktop/TheirStories/centralam-R2C3.css",
+				"/Users/wlam/Desktop/TheirStories/central-r2c2.css",
+				"/Users/wlam/Desktop/TheirStories/specialthanks.css",
+				"/Users/wlam/Desktop/TheirStories/submission.css",
+				"/Users/wlam/Desktop/TheirStories/submission.html",
+				"/Users/wlam/Desktop/TheirStories/specialthanks.html",
+				"/Users/wlam/Desktop/TheirStories/centralam-R1C2.css",
+				"/Users/wlam/Desktop/TheirStories/centralam-R1C2.html",
+				"/Users/wlam/Desktop/TheirStories/aboutstyle.css",
+				"/Users/wlam/Desktop/TheirStories/about.html",
+				"/Users/wlam/Desktop/TheirStories/contact.css",
+				"/Users/wlam/Desktop/TheirStories/contact.html",
+				"/Users/wlam/Desktop/TheirStories/australia.html",
+				"/Users/wlam/Desktop/TheirStories/middleeast-style.css",
+				"/Users/wlam/Desktop/TheirStories/middleeast.html",
+				"/Users/wlam/Desktop/TheirStories/northam-style.css",
+				"/Users/wlam/Desktop/TheirStories/northam.html",
+				"/Users/wlam/Desktop/TheirStories/index.html",
+				"/Users/wlam/Desktop/TheirStories/asia-style.css",
+				"/Users/wlam/Desktop/TheirStories/eastasia-style.css",
+				"/Users/wlam/Desktop/TheirStories/eastasia.html",
+				"/Users/wlam/Desktop/TheirStories/asia.html",
+				"/Users/wlam/Desktop/TheirStories/asia.style",
+				"/Users/wlam/Desktop/TheirStories/style.css",
+				"/Users/wlam/Desktop/final/style.css",
+				"/Users/wlam/Desktop/TheirStories/style3.css",
+				"/Users/wlam/Desktop/TheirStories/mexico.html",
+				"/Users/wlam/Desktop/TheirStories/style1.css",
+				"/Users/wlam/Desktop/TheirStories/SKETCHBOOK.css",
+				"/Users/wlam/Desktop/webpage/style.css",
+				"/Users/wlam/Desktop/webpage/index.html",
+				"/Users/wlam/Desktop/INTERACTION/new/style.css",
+				"/Users/wlam/Desktop/typeface/style.css",
+				"/Users/wlam/Desktop/typeface/index.html",
+				"/Users/wlam/Desktop/INTERACTION/new/index.html",
+				"/Users/wlam/Desktop/INTERACTION/css2/index.html",
+				"/Users/wlam/Desktop/emotions final/index.html",
+				"/Users/wlam/Desktop/css2/style.css",
+				"/Users/wlam/Desktop/css2/index.html",
+				"/Users/wlam/Desktop/new/style.css",
+				"/Users/wlam/Desktop/new/index.html",
+				"/Users/wlam/Desktop/emotions final/P1.html",
+				"/Users/wlam/Desktop/checkerboard/style.css",
+				"/Users/wlam/Desktop/checkerboard/index.html",
+				"/Users/wlam/Desktop/emotions final/P6S5.html",
+				"/Users/wlam/Desktop/emotions final/P5S1.html",
+				"/Users/wlam/Desktop/emotions final/P5S4.html",
+				"/Users/wlam/Desktop/emotions final/P6S1.html",
+				"/Users/wlam/Desktop/emotions final/P6H3.html",
+				"/Users/wlam/Desktop/emotions final/P6H4.html",
+				"/Users/wlam/Desktop/emotions final/P6H2.html",
+				"/Users/wlam/Desktop/emotions final/P6H7.html",
+				"/Users/wlam/Desktop/emotions final/P6H6.html",
+				"/Users/wlam/Desktop/emotions final/P7S1.html",
+				"/Users/wlam/Desktop/emotions final/P7S3.html",
+				"/Users/wlam/Desktop/emotions/P4F.html",
+				"/Users/wlam/Desktop/emotions/P2F.html",
+				"/Users/wlam/Desktop/emotions/P1.html",
+				"/Users/wlam/Desktop/emotions/P7H6.html",
+				"/Users/wlam/Desktop/emotions/P7H4.html",
+				"/Users/wlam/Desktop/emotions/P7H3.html",
+				"/Users/wlam/Desktop/emotions/P7H2.html",
+				"/Users/wlam/Desktop/emotions/P7H1.html",
+				"/Users/wlam/Desktop/emotions/P7H5.html",
+				"/Users/wlam/Desktop/emotions/P7S16.html",
+				"/Users/wlam/Desktop/emotions/P7S8.html",
+				"/Users/wlam/Desktop/emotions/P7S7.html",
+				"/Users/wlam/Desktop/emotions/P7S6.html",
+				"/Users/wlam/Desktop/emotions/P7S5.html",
+				"/Users/wlam/Desktop/emotions/P7S4.html",
+				"/Users/wlam/Desktop/emotions/P7S3.html",
+				"/Users/wlam/Desktop/emotions/P7S14.html",
+				"/Users/wlam/Desktop/emotions/P7S2.html",
+				"/Users/wlam/Desktop/emotions/P7S1.html",
+				"/Users/wlam/Desktop/emotions/P6S4.html",
+				"/Users/wlam/Desktop/emotions/P5S1.html",
+				"/Users/wlam/Desktop/emotions/P6S3.html",
+				"/Users/wlam/Desktop/emotions/P4S2.html",
+				"/Users/wlam/Desktop/emotions/P4S1.html",
+				"/Users/wlam/Desktop/emotions/P3S.html",
+				"/Users/wlam/Desktop/emotions/P4S1.css",
+				"/Users/wlam/Desktop/emotions/P2S.html",
+				"/Users/wlam/Desktop/INTERACTION/spongebob/style.css",
+				"/Users/wlam/Desktop/INTERACTION/spongebob/index.html",
+				"/Users/wlam/Desktop/emotions/index.html",
+				"/Users/wlam/Desktop/emotions/P5AQ3.html",
+				"/Users/wlam/Desktop/emotions/P5AQ4.html",
+				"/Users/wlam/Desktop/emotions/P5AQ5.html",
+				"/Users/wlam/Desktop/emotions/P6AQ.html",
+				"/Users/wlam/Desktop/emotions/P5AQ6.html",
+				"/Users/wlam/Desktop/emotions/P5AQ.html"
+			],
+			"find":
+			{
+				"height": 37.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": false,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": false
+			},
+			"incremental_find":
+			{
+				"height": 37.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 70.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1117.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"lin",
+						"line-height\tproperty"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/wlam/Desktop/TheirStories/southafrica-R1C3.html",
+					"settings":
+					{
+						"buffer_size": 1445,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/wlam/Desktop/TheirStories/southafrica-R1C3.css",
+					"settings":
+					{
+						"buffer_size": 1992,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/wlam/Desktop/TheirStories/southafrica-R1C2.css",
+				"/Users/wlam/Desktop/TheirStories/southafrica-R1C2.html",
+				"/Users/wlam/Desktop/TheirStories/southafrica-R1C1.css",
+				"/Users/wlam/Desktop/TheirStories/southasia-R1C3.html",
+				"/Users/wlam/Desktop/TheirStories/southeastasia.html",
+				"/Users/wlam/Desktop/TheirStories/southam-R1C3.css",
+				"/Users/wlam/Desktop/TheirStories/southam-R1C3.html",
+				"/Users/wlam/Desktop/TheirStories/southam-R1C2.html",
+				"/Users/wlam/Desktop/TheirStories/southam-R1C1.html",
+				"/Users/wlam/Desktop/TheirStories/eastasia-R1C2.css",
+				"/Users/wlam/Desktop/TheirStories/eastasia-R1C2.html",
+				"/Users/wlam/Desktop/TheirStories/eastasia-R1C1.css",
+				"/Users/wlam/Desktop/TheirStories/eastasia-R1C1.html",
+				"/Users/wlam/Desktop/TheirStories/eatasia-R1C3.ss",
+				"/Users/wlam/Desktop/TheirStories/eastasia-R1C3.htmk",
+				"/Users/wlam/Desktop/TheirStories/northeurope.css",
+				"/Users/wlam/Desktop/TheirStories/southeastasia.css",
+				"/Users/wlam/Desktop/TheirStories/africa-nav.js",
+				"/Users/wlam/Desktop/TheirStories/asia-nav.js",
+				"/Users/wlam/Desktop/TheirStories/asia-nav.css",
+				"/Users/wlam/Desktop/TheirStories/asia-nav.html",
+				"/Users/wlam/Desktop/TheirStories/europe-nav.html",
+				"/Users/wlam/Desktop/TheirStories/europe-R1C2.html",
+				"/Users/wlam/Desktop/TheirStories/europe-R1C1.css",
+				"/Users/wlam/Desktop/TheirStories/europe-R1C1.html",
+				"/Users/wlam/Desktop/TheirStories/europe.html",
+				"/Users/wlam/Desktop/TheirStories/europe-style.css",
+				"/Users/wlam/Desktop/TheirStories/centralam-style.css",
+				"/Users/wlam/Desktop/TheirStories/centralam.html",
+				"/Users/wlam/Desktop/TheirStories/centralam-R2C2.html",
+				"/Users/wlam/Desktop/TheirStories/centralam-R2C2.css",
+				"/Users/wlam/Desktop/TheirStories/europe-navigation.css",
+				"/Users/wlam/Desktop/TheirStories/europe-navigation.html",
+				"/Users/wlam/Desktop/TheirStories/australia-style.css",
+				"/Users/wlam/Desktop/TheirStories/centralam-R1C1.css",
+				"/Users/wlam/Desktop/TheirStories/centralam-R1C1.html",
+				"/Users/wlam/Desktop/TheirStories/centralam-R2C3.css",
+				"/Users/wlam/Desktop/TheirStories/central-r2c2.css",
+				"/Users/wlam/Desktop/TheirStories/specialthanks.css",
+				"/Users/wlam/Desktop/TheirStories/submission.css",
+				"/Users/wlam/Desktop/TheirStories/submission.html",
+				"/Users/wlam/Desktop/TheirStories/specialthanks.html",
+				"/Users/wlam/Desktop/TheirStories/centralam-R1C2.css",
+				"/Users/wlam/Desktop/TheirStories/centralam-R1C2.html",
+				"/Users/wlam/Desktop/TheirStories/aboutstyle.css",
+				"/Users/wlam/Desktop/TheirStories/about.html",
+				"/Users/wlam/Desktop/TheirStories/contact.css",
+				"/Users/wlam/Desktop/TheirStories/contact.html",
+				"/Users/wlam/Desktop/TheirStories/australia.html",
+				"/Users/wlam/Desktop/TheirStories/middleeast-style.css",
+				"/Users/wlam/Desktop/TheirStories/middleeast.html",
+				"/Users/wlam/Desktop/TheirStories/northam-style.css",
+				"/Users/wlam/Desktop/TheirStories/northam.html",
+				"/Users/wlam/Desktop/TheirStories/index.html",
+				"/Users/wlam/Desktop/TheirStories/asia-style.css",
+				"/Users/wlam/Desktop/TheirStories/eastasia-style.css",
+				"/Users/wlam/Desktop/TheirStories/eastasia.html",
+				"/Users/wlam/Desktop/TheirStories/asia.html",
+				"/Users/wlam/Desktop/TheirStories/asia.style",
+				"/Users/wlam/Desktop/TheirStories/style.css",
+				"/Users/wlam/Desktop/final/style.css",
+				"/Users/wlam/Desktop/TheirStories/style3.css",
+				"/Users/wlam/Desktop/TheirStories/mexico.html",
+				"/Users/wlam/Desktop/TheirStories/style1.css",
+				"/Users/wlam/Desktop/TheirStories/SKETCHBOOK.css",
+				"/Users/wlam/Desktop/webpage/style.css",
+				"/Users/wlam/Desktop/webpage/index.html",
+				"/Users/wlam/Desktop/INTERACTION/new/style.css",
+				"/Users/wlam/Desktop/typeface/style.css",
+				"/Users/wlam/Desktop/typeface/index.html",
+				"/Users/wlam/Desktop/INTERACTION/new/index.html",
+				"/Users/wlam/Desktop/INTERACTION/css2/index.html",
+				"/Users/wlam/Desktop/emotions final/index.html",
+				"/Users/wlam/Desktop/css2/style.css",
+				"/Users/wlam/Desktop/css2/index.html",
+				"/Users/wlam/Desktop/new/style.css",
+				"/Users/wlam/Desktop/new/index.html",
+				"/Users/wlam/Desktop/emotions final/P1.html",
+				"/Users/wlam/Desktop/checkerboard/style.css",
+				"/Users/wlam/Desktop/checkerboard/index.html",
+				"/Users/wlam/Desktop/emotions final/P6S5.html",
+				"/Users/wlam/Desktop/emotions final/P5S1.html",
+				"/Users/wlam/Desktop/emotions final/P5S4.html",
+				"/Users/wlam/Desktop/emotions final/P6S1.html",
+				"/Users/wlam/Desktop/emotions final/P6H3.html",
+				"/Users/wlam/Desktop/emotions final/P6H4.html",
+				"/Users/wlam/Desktop/emotions final/P6H2.html",
+				"/Users/wlam/Desktop/emotions final/P6H7.html",
+				"/Users/wlam/Desktop/emotions final/P6H6.html",
+				"/Users/wlam/Desktop/emotions final/P7S1.html",
+				"/Users/wlam/Desktop/emotions final/P7S3.html",
+				"/Users/wlam/Desktop/emotions/P4F.html",
+				"/Users/wlam/Desktop/emotions/P2F.html",
+				"/Users/wlam/Desktop/emotions/P1.html",
+				"/Users/wlam/Desktop/emotions/P7H6.html",
+				"/Users/wlam/Desktop/emotions/P7H4.html",
+				"/Users/wlam/Desktop/emotions/P7H3.html",
+				"/Users/wlam/Desktop/emotions/P7H2.html",
+				"/Users/wlam/Desktop/emotions/P7H1.html",
+				"/Users/wlam/Desktop/emotions/P7H5.html",
+				"/Users/wlam/Desktop/emotions/P7S16.html",
+				"/Users/wlam/Desktop/emotions/P7S8.html",
+				"/Users/wlam/Desktop/emotions/P7S7.html",
+				"/Users/wlam/Desktop/emotions/P7S6.html",
+				"/Users/wlam/Desktop/emotions/P7S5.html",
+				"/Users/wlam/Desktop/emotions/P7S4.html",
+				"/Users/wlam/Desktop/emotions/P7S3.html",
+				"/Users/wlam/Desktop/emotions/P7S14.html",
+				"/Users/wlam/Desktop/emotions/P7S2.html",
+				"/Users/wlam/Desktop/emotions/P7S1.html",
+				"/Users/wlam/Desktop/emotions/P6S4.html",
+				"/Users/wlam/Desktop/emotions/P5S1.html",
+				"/Users/wlam/Desktop/emotions/P6S3.html",
+				"/Users/wlam/Desktop/emotions/P4S2.html",
+				"/Users/wlam/Desktop/emotions/P4S1.html",
+				"/Users/wlam/Desktop/emotions/P3S.html",
+				"/Users/wlam/Desktop/emotions/P4S1.css",
+				"/Users/wlam/Desktop/emotions/P2S.html",
+				"/Users/wlam/Desktop/INTERACTION/spongebob/style.css",
+				"/Users/wlam/Desktop/INTERACTION/spongebob/index.html",
+				"/Users/wlam/Desktop/emotions/index.html",
+				"/Users/wlam/Desktop/emotions/P5AQ3.html",
+				"/Users/wlam/Desktop/emotions/P5AQ4.html",
+				"/Users/wlam/Desktop/emotions/P5AQ5.html",
+				"/Users/wlam/Desktop/emotions/P6AQ.html",
+				"/Users/wlam/Desktop/emotions/P5AQ6.html",
+				"/Users/wlam/Desktop/emotions/P5AQ.html",
+				"/Users/wlam/Desktop/emotions/P5AQ2.html"
+			],
+			"find":
+			{
+				"height": 37.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": false,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": false
+			},
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/wlam/Desktop/TheirStories/southafrica-R1C3.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1445,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1064,
+										1064
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 809.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/Users/wlam/Desktop/TheirStories/southafrica-R1C3.css",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1992,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1992,
+										1992
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/CSS/CSS.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 766.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 37.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "1 166 53 1117 824 0 0 1440 877 ",
+			"project": "",
+			"replace":
+			{
+				"height": 70.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 700,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"lin",
+						"line-height\tproperty"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/wlam/Desktop/TheirStories/centralam-R2C2.html",
+					"settings":
+					{
+						"buffer_size": 1406,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/wlam/Desktop/TheirStories/centralam-R2C2.css",
+					"settings":
+					{
+						"buffer_size": 2673,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/wlam/Desktop/TheirStories/westasia.html",
+				"/Users/wlam/Desktop/TheirStories/westasia.css",
+				"/Users/wlam/Desktop/TheirStories/westafrica.css",
+				"/Users/wlam/Desktop/TheirStories/westafrica.html",
+				"/Users/wlam/Desktop/TheirStories/southasia-R1C3.html",
+				"/Users/wlam/Desktop/TheirStories/southeastasia.html",
+				"/Users/wlam/Desktop/TheirStories/southam-R1C3.css",
+				"/Users/wlam/Desktop/TheirStories/southam-R1C3.html",
+				"/Users/wlam/Desktop/TheirStories/southam-R1C2.html",
+				"/Users/wlam/Desktop/TheirStories/southam-R1C1.html",
+				"/Users/wlam/Desktop/TheirStories/eastasia-R1C2.css",
+				"/Users/wlam/Desktop/TheirStories/eastasia-R1C2.html",
+				"/Users/wlam/Desktop/TheirStories/eastasia-R1C1.css",
+				"/Users/wlam/Desktop/TheirStories/eastasia-R1C1.html",
+				"/Users/wlam/Desktop/TheirStories/eatasia-R1C3.ss",
+				"/Users/wlam/Desktop/TheirStories/eastasia-R1C3.htmk",
+				"/Users/wlam/Desktop/TheirStories/northeurope.css",
+				"/Users/wlam/Desktop/TheirStories/southeastasia.css",
+				"/Users/wlam/Desktop/TheirStories/africa-nav.js",
+				"/Users/wlam/Desktop/TheirStories/asia-nav.js",
+				"/Users/wlam/Desktop/TheirStories/asia-nav.css",
+				"/Users/wlam/Desktop/TheirStories/asia-nav.html",
+				"/Users/wlam/Desktop/TheirStories/europe-nav.html",
+				"/Users/wlam/Desktop/TheirStories/europe-R1C2.html",
+				"/Users/wlam/Desktop/TheirStories/europe-R1C1.css",
+				"/Users/wlam/Desktop/TheirStories/europe-R1C1.html",
+				"/Users/wlam/Desktop/TheirStories/europe.html",
+				"/Users/wlam/Desktop/TheirStories/europe-style.css",
+				"/Users/wlam/Desktop/TheirStories/centralam-style.css",
+				"/Users/wlam/Desktop/TheirStories/centralam.html",
+				"/Users/wlam/Desktop/TheirStories/centralam-R2C2.html",
+				"/Users/wlam/Desktop/TheirStories/centralam-R2C2.css",
+				"/Users/wlam/Desktop/TheirStories/europe-navigation.css",
+				"/Users/wlam/Desktop/TheirStories/europe-navigation.html",
+				"/Users/wlam/Desktop/TheirStories/australia-style.css",
+				"/Users/wlam/Desktop/TheirStories/centralam-R1C1.css",
+				"/Users/wlam/Desktop/TheirStories/centralam-R1C1.html",
+				"/Users/wlam/Desktop/TheirStories/centralam-R2C3.css",
+				"/Users/wlam/Desktop/TheirStories/central-r2c2.css",
+				"/Users/wlam/Desktop/TheirStories/specialthanks.css",
+				"/Users/wlam/Desktop/TheirStories/submission.css",
+				"/Users/wlam/Desktop/TheirStories/submission.html",
+				"/Users/wlam/Desktop/TheirStories/specialthanks.html",
+				"/Users/wlam/Desktop/TheirStories/centralam-R1C2.css",
+				"/Users/wlam/Desktop/TheirStories/centralam-R1C2.html",
+				"/Users/wlam/Desktop/TheirStories/aboutstyle.css",
+				"/Users/wlam/Desktop/TheirStories/about.html",
+				"/Users/wlam/Desktop/TheirStories/contact.css",
+				"/Users/wlam/Desktop/TheirStories/contact.html",
+				"/Users/wlam/Desktop/TheirStories/australia.html",
+				"/Users/wlam/Desktop/TheirStories/middleeast-style.css",
+				"/Users/wlam/Desktop/TheirStories/middleeast.html",
+				"/Users/wlam/Desktop/TheirStories/northam-style.css",
+				"/Users/wlam/Desktop/TheirStories/northam.html",
+				"/Users/wlam/Desktop/TheirStories/index.html",
+				"/Users/wlam/Desktop/TheirStories/asia-style.css",
+				"/Users/wlam/Desktop/TheirStories/eastasia-style.css",
+				"/Users/wlam/Desktop/TheirStories/eastasia.html",
+				"/Users/wlam/Desktop/TheirStories/asia.html",
+				"/Users/wlam/Desktop/TheirStories/asia.style",
+				"/Users/wlam/Desktop/TheirStories/style.css",
+				"/Users/wlam/Desktop/final/style.css",
+				"/Users/wlam/Desktop/TheirStories/style3.css",
+				"/Users/wlam/Desktop/TheirStories/mexico.html",
+				"/Users/wlam/Desktop/TheirStories/style1.css",
+				"/Users/wlam/Desktop/TheirStories/SKETCHBOOK.css",
+				"/Users/wlam/Desktop/webpage/style.css",
+				"/Users/wlam/Desktop/webpage/index.html",
+				"/Users/wlam/Desktop/INTERACTION/new/style.css",
+				"/Users/wlam/Desktop/typeface/style.css",
+				"/Users/wlam/Desktop/typeface/index.html",
+				"/Users/wlam/Desktop/INTERACTION/new/index.html",
+				"/Users/wlam/Desktop/INTERACTION/css2/index.html",
+				"/Users/wlam/Desktop/emotions final/index.html",
+				"/Users/wlam/Desktop/css2/style.css",
+				"/Users/wlam/Desktop/css2/index.html",
+				"/Users/wlam/Desktop/new/style.css",
+				"/Users/wlam/Desktop/new/index.html",
+				"/Users/wlam/Desktop/emotions final/P1.html",
+				"/Users/wlam/Desktop/checkerboard/style.css",
+				"/Users/wlam/Desktop/checkerboard/index.html",
+				"/Users/wlam/Desktop/emotions final/P6S5.html",
+				"/Users/wlam/Desktop/emotions final/P5S1.html",
+				"/Users/wlam/Desktop/emotions final/P5S4.html",
+				"/Users/wlam/Desktop/emotions final/P6S1.html",
+				"/Users/wlam/Desktop/emotions final/P6H3.html",
+				"/Users/wlam/Desktop/emotions final/P6H4.html",
+				"/Users/wlam/Desktop/emotions final/P6H2.html",
+				"/Users/wlam/Desktop/emotions final/P6H7.html",
+				"/Users/wlam/Desktop/emotions final/P6H6.html",
+				"/Users/wlam/Desktop/emotions final/P7S1.html",
+				"/Users/wlam/Desktop/emotions final/P7S3.html",
+				"/Users/wlam/Desktop/emotions/P4F.html",
+				"/Users/wlam/Desktop/emotions/P2F.html",
+				"/Users/wlam/Desktop/emotions/P1.html",
+				"/Users/wlam/Desktop/emotions/P7H6.html",
+				"/Users/wlam/Desktop/emotions/P7H4.html",
+				"/Users/wlam/Desktop/emotions/P7H3.html",
+				"/Users/wlam/Desktop/emotions/P7H2.html",
+				"/Users/wlam/Desktop/emotions/P7H1.html",
+				"/Users/wlam/Desktop/emotions/P7H5.html",
+				"/Users/wlam/Desktop/emotions/P7S16.html",
+				"/Users/wlam/Desktop/emotions/P7S8.html",
+				"/Users/wlam/Desktop/emotions/P7S7.html",
+				"/Users/wlam/Desktop/emotions/P7S6.html",
+				"/Users/wlam/Desktop/emotions/P7S5.html",
+				"/Users/wlam/Desktop/emotions/P7S4.html",
+				"/Users/wlam/Desktop/emotions/P7S3.html",
+				"/Users/wlam/Desktop/emotions/P7S14.html",
+				"/Users/wlam/Desktop/emotions/P7S2.html",
+				"/Users/wlam/Desktop/emotions/P7S1.html",
+				"/Users/wlam/Desktop/emotions/P6S4.html",
+				"/Users/wlam/Desktop/emotions/P5S1.html",
+				"/Users/wlam/Desktop/emotions/P6S3.html",
+				"/Users/wlam/Desktop/emotions/P4S2.html",
+				"/Users/wlam/Desktop/emotions/P4S1.html",
+				"/Users/wlam/Desktop/emotions/P3S.html",
+				"/Users/wlam/Desktop/emotions/P4S1.css",
+				"/Users/wlam/Desktop/emotions/P2S.html",
+				"/Users/wlam/Desktop/INTERACTION/spongebob/style.css",
+				"/Users/wlam/Desktop/INTERACTION/spongebob/index.html",
+				"/Users/wlam/Desktop/emotions/index.html",
+				"/Users/wlam/Desktop/emotions/P5AQ3.html",
+				"/Users/wlam/Desktop/emotions/P5AQ4.html",
+				"/Users/wlam/Desktop/emotions/P5AQ5.html",
+				"/Users/wlam/Desktop/emotions/P6AQ.html",
+				"/Users/wlam/Desktop/emotions/P5AQ6.html",
+				"/Users/wlam/Desktop/emotions/P5AQ.html"
+			],
+			"find":
+			{
+				"height": 37.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": false,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": false
+			},
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/wlam/Desktop/TheirStories/centralam-R2C2.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1406,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/Users/wlam/Desktop/TheirStories/centralam-R2C2.css",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2673,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2449,
+										2449
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/CSS/CSS.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 4099.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 37.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0 161 53 1117 824 0 0 1440 877 ",
+			"project": "",
+			"replace":
+			{
+				"height": 70.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 736,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"lin",
+						"line-height\tproperty"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/wlam/Desktop/TheirStories/southafrica-R1C3.css",
+					"settings":
+					{
+						"buffer_size": 1989,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/wlam/Desktop/TheirStories/southafrica-R1C2.css",
+					"settings":
+					{
+						"buffer_size": 1989,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/wlam/Desktop/TheirStories/southafrica-R1C1.css",
+				"/Users/wlam/Desktop/TheirStories/southafrica-R1C1.html",
+				"/Users/wlam/Desktop/TheirStories/southafrica-R1C2.html",
+				"/Users/wlam/Desktop/TheirStories/southafrica-R1C3.html",
+				"/Users/wlam/Desktop/TheirStories/westasia.html",
+				"/Users/wlam/Desktop/TheirStories/westasia.css",
+				"/Users/wlam/Desktop/TheirStories/westafrica.css",
+				"/Users/wlam/Desktop/TheirStories/westafrica.html",
+				"/Users/wlam/Desktop/TheirStories/southasia-R1C3.html",
+				"/Users/wlam/Desktop/TheirStories/southeastasia.html",
+				"/Users/wlam/Desktop/TheirStories/southam-R1C3.css",
+				"/Users/wlam/Desktop/TheirStories/southam-R1C3.html",
+				"/Users/wlam/Desktop/TheirStories/southam-R1C2.html",
+				"/Users/wlam/Desktop/TheirStories/southam-R1C1.html",
+				"/Users/wlam/Desktop/TheirStories/eastasia-R1C2.css",
+				"/Users/wlam/Desktop/TheirStories/eastasia-R1C2.html",
+				"/Users/wlam/Desktop/TheirStories/eastasia-R1C1.css",
+				"/Users/wlam/Desktop/TheirStories/eastasia-R1C1.html",
+				"/Users/wlam/Desktop/TheirStories/eatasia-R1C3.ss",
+				"/Users/wlam/Desktop/TheirStories/eastasia-R1C3.htmk",
+				"/Users/wlam/Desktop/TheirStories/northeurope.css",
+				"/Users/wlam/Desktop/TheirStories/southeastasia.css",
+				"/Users/wlam/Desktop/TheirStories/africa-nav.js",
+				"/Users/wlam/Desktop/TheirStories/asia-nav.js",
+				"/Users/wlam/Desktop/TheirStories/asia-nav.css",
+				"/Users/wlam/Desktop/TheirStories/asia-nav.html",
+				"/Users/wlam/Desktop/TheirStories/europe-nav.html",
+				"/Users/wlam/Desktop/TheirStories/europe-R1C2.html",
+				"/Users/wlam/Desktop/TheirStories/europe-R1C1.css",
+				"/Users/wlam/Desktop/TheirStories/europe-R1C1.html",
+				"/Users/wlam/Desktop/TheirStories/europe.html",
+				"/Users/wlam/Desktop/TheirStories/europe-style.css",
+				"/Users/wlam/Desktop/TheirStories/centralam-style.css",
+				"/Users/wlam/Desktop/TheirStories/centralam.html",
+				"/Users/wlam/Desktop/TheirStories/centralam-R2C2.html",
+				"/Users/wlam/Desktop/TheirStories/centralam-R2C2.css",
+				"/Users/wlam/Desktop/TheirStories/europe-navigation.css",
+				"/Users/wlam/Desktop/TheirStories/europe-navigation.html",
+				"/Users/wlam/Desktop/TheirStories/australia-style.css",
+				"/Users/wlam/Desktop/TheirStories/centralam-R1C1.css",
+				"/Users/wlam/Desktop/TheirStories/centralam-R1C1.html",
+				"/Users/wlam/Desktop/TheirStories/centralam-R2C3.css",
+				"/Users/wlam/Desktop/TheirStories/central-r2c2.css",
+				"/Users/wlam/Desktop/TheirStories/specialthanks.css",
+				"/Users/wlam/Desktop/TheirStories/submission.css",
+				"/Users/wlam/Desktop/TheirStories/submission.html",
+				"/Users/wlam/Desktop/TheirStories/specialthanks.html",
+				"/Users/wlam/Desktop/TheirStories/centralam-R1C2.css",
+				"/Users/wlam/Desktop/TheirStories/centralam-R1C2.html",
+				"/Users/wlam/Desktop/TheirStories/aboutstyle.css",
+				"/Users/wlam/Desktop/TheirStories/about.html",
+				"/Users/wlam/Desktop/TheirStories/contact.css",
+				"/Users/wlam/Desktop/TheirStories/contact.html",
+				"/Users/wlam/Desktop/TheirStories/australia.html",
+				"/Users/wlam/Desktop/TheirStories/middleeast-style.css",
+				"/Users/wlam/Desktop/TheirStories/middleeast.html",
+				"/Users/wlam/Desktop/TheirStories/northam-style.css",
+				"/Users/wlam/Desktop/TheirStories/northam.html",
+				"/Users/wlam/Desktop/TheirStories/index.html",
+				"/Users/wlam/Desktop/TheirStories/asia-style.css",
+				"/Users/wlam/Desktop/TheirStories/eastasia-style.css",
+				"/Users/wlam/Desktop/TheirStories/eastasia.html",
+				"/Users/wlam/Desktop/TheirStories/asia.html",
+				"/Users/wlam/Desktop/TheirStories/asia.style",
+				"/Users/wlam/Desktop/TheirStories/style.css",
+				"/Users/wlam/Desktop/final/style.css",
+				"/Users/wlam/Desktop/TheirStories/style3.css",
+				"/Users/wlam/Desktop/TheirStories/mexico.html",
+				"/Users/wlam/Desktop/TheirStories/style1.css",
+				"/Users/wlam/Desktop/TheirStories/SKETCHBOOK.css",
+				"/Users/wlam/Desktop/webpage/style.css",
+				"/Users/wlam/Desktop/webpage/index.html",
+				"/Users/wlam/Desktop/INTERACTION/new/style.css",
+				"/Users/wlam/Desktop/typeface/style.css",
+				"/Users/wlam/Desktop/typeface/index.html",
+				"/Users/wlam/Desktop/INTERACTION/new/index.html",
+				"/Users/wlam/Desktop/INTERACTION/css2/index.html",
+				"/Users/wlam/Desktop/emotions final/index.html",
+				"/Users/wlam/Desktop/css2/style.css",
+				"/Users/wlam/Desktop/css2/index.html",
+				"/Users/wlam/Desktop/new/style.css",
+				"/Users/wlam/Desktop/new/index.html",
+				"/Users/wlam/Desktop/emotions final/P1.html",
+				"/Users/wlam/Desktop/checkerboard/style.css",
+				"/Users/wlam/Desktop/checkerboard/index.html",
+				"/Users/wlam/Desktop/emotions final/P6S5.html",
+				"/Users/wlam/Desktop/emotions final/P5S1.html",
+				"/Users/wlam/Desktop/emotions final/P5S4.html",
+				"/Users/wlam/Desktop/emotions final/P6S1.html",
+				"/Users/wlam/Desktop/emotions final/P6H3.html",
+				"/Users/wlam/Desktop/emotions final/P6H4.html",
+				"/Users/wlam/Desktop/emotions final/P6H2.html",
+				"/Users/wlam/Desktop/emotions final/P6H7.html",
+				"/Users/wlam/Desktop/emotions final/P6H6.html",
+				"/Users/wlam/Desktop/emotions final/P7S1.html",
+				"/Users/wlam/Desktop/emotions final/P7S3.html",
+				"/Users/wlam/Desktop/emotions/P4F.html",
+				"/Users/wlam/Desktop/emotions/P2F.html",
+				"/Users/wlam/Desktop/emotions/P1.html",
+				"/Users/wlam/Desktop/emotions/P7H6.html",
+				"/Users/wlam/Desktop/emotions/P7H4.html",
+				"/Users/wlam/Desktop/emotions/P7H3.html",
+				"/Users/wlam/Desktop/emotions/P7H2.html",
+				"/Users/wlam/Desktop/emotions/P7H1.html",
+				"/Users/wlam/Desktop/emotions/P7H5.html",
+				"/Users/wlam/Desktop/emotions/P7S16.html",
+				"/Users/wlam/Desktop/emotions/P7S8.html",
+				"/Users/wlam/Desktop/emotions/P7S7.html",
+				"/Users/wlam/Desktop/emotions/P7S6.html",
+				"/Users/wlam/Desktop/emotions/P7S5.html",
+				"/Users/wlam/Desktop/emotions/P7S4.html",
+				"/Users/wlam/Desktop/emotions/P7S3.html",
+				"/Users/wlam/Desktop/emotions/P7S14.html",
+				"/Users/wlam/Desktop/emotions/P7S2.html",
+				"/Users/wlam/Desktop/emotions/P7S1.html",
+				"/Users/wlam/Desktop/emotions/P6S4.html",
+				"/Users/wlam/Desktop/emotions/P5S1.html",
+				"/Users/wlam/Desktop/emotions/P6S3.html",
+				"/Users/wlam/Desktop/emotions/P4S2.html",
+				"/Users/wlam/Desktop/emotions/P4S1.html",
+				"/Users/wlam/Desktop/emotions/P3S.html",
+				"/Users/wlam/Desktop/emotions/P4S1.css",
+				"/Users/wlam/Desktop/emotions/P2S.html",
+				"/Users/wlam/Desktop/INTERACTION/spongebob/style.css",
+				"/Users/wlam/Desktop/INTERACTION/spongebob/index.html",
+				"/Users/wlam/Desktop/emotions/index.html",
+				"/Users/wlam/Desktop/emotions/P5AQ3.html",
+				"/Users/wlam/Desktop/emotions/P5AQ4.html"
+			],
+			"find":
+			{
+				"height": 37.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": false,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": false
+			},
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/wlam/Desktop/TheirStories/southafrica-R1C3.css",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1989,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1609,
+										1609
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/CSS/CSS.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 3091.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/Users/wlam/Desktop/TheirStories/southafrica-R1C2.css",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1989,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1609,
+										1609
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/CSS/CSS.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 3091.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 37.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0 161 53 1117 824 0 0 1440 877 ",
+			"project": "",
+			"replace":
+			{
+				"height": 70.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 746,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
