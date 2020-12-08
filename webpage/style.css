@@ -1,0 +1,197 @@
+body {
+	width: 100vw;
+	height: 100vw;
+	overflow: hidden;
+}
+
+.picture {
+	position: absolute;
+	background-image: url(lamps.png);
+	background-size: contain;
+	background-repeat: no-repeat;
+	width: 100vw;
+	height: 50vw;
+	left: 0px;
+	top: 0px;
+} 
+ 
+
+.information {
+	position: absolute;
+	top: 10px;
+	left: 25px;
+	width: 2000px;
+	font-family: 'Krona One', sans-serif;
+}
+
+.rule {
+	position: absolute;
+	height: 7px;
+	width: 30px;
+	background-color: rgb(0,113,188);
+	top: 682px;
+	left: 132px;
+}
+
+.nct {
+	position: absolute;
+	font-size: 20px;
+	left: 106px;
+	top: 515px;
+	width: 800px
+	font-weight: 700;
+	color: black;
+	font-size: 16px;
+}
+
+.title {  
+	position: absolute;
+	font-size: 7vw;
+	left: 105px;
+	top: 570px;
+	font-weight: 700;
+	font-size: 20px;
+	color: rgb( 255, 116, 36)
+}
+
+.info { 
+	position: absolute;
+	left: 105px;
+	top: 655px;
+	width: 800px
+	font-weight: 700;
+	color: black;
+	font-size: 18px;
+}
+
+.teal {
+	color: rgb(101, 200, 208);
+}
+
+.address { 
+	position: absolute;
+	left: 520px;
+	top: 670px;
+	width: 800px
+	font-weight: normal;
+	color: black;
+	font-size: 18px;
+}
+
+.admission { 
+	position: absolute;
+	left: 1080px;
+	top: 675px;
+	width: 800px
+	font-weight: normal;
+	color: black;
+	font-size: 18px;
+}
+
+
+h1 {
+	margin-top: -10px;
+
+} 
+
+@media (max-width: 375px) {
+
+.picture {
+	position: absolute;
+	top: -100;
+	left: 0;
+	width: 401vw;
+	height: 401vh;
+	background-image: url("lamps2.png");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-image: contain;
+}
+
+.rule {
+	position: absolute;
+	height: 150px;
+	width: 30px;
+	background-color: rgb(0,113,188);
+	top: 1895px;
+	left: 100px;
+}
+
+.rule2 {
+	position: absolute;
+	height: 150px;
+	width: 30px;
+	background-color: rgb(0,113,188);
+	top: 2158px;
+	left: 100px;
+}
+
+.information {
+	position: absolute;
+	top: 10px;
+	left: 15px;
+	width: 2000px;
+	font-family: 'Krona One', sans-serif;
+}
+
+.nct {
+	position: absolute;
+	left: 80px;
+	top: 70px;
+	width: 1000px;
+	font-size: 15vw;
+	font-weight: 500;
+	color: black;
+}
+
+.title {  
+	position: absolute;
+	left: 70px;
+	top: 220px;
+	width: 1500px;
+	font-weight: 500;
+	line-height: 160px;
+	font-size: 1px;
+}
+
+.info {
+	position: absolute;
+	left: 150px;
+	top: 1700px;
+	width: 1500px;
+	font-weight: 300;
+	color: black;
+	font-size: 56px;
+	line-height: 100px;
+}
+
+.address {
+	position: absolute;
+	left: 150px;
+	top: 2020px;
+	width: 2000px;
+	font-weight: 300;
+	color: black;
+	font-size: 56px;
+	line-height: 100px;
+}
+
+.admission { 
+	position: absolute;
+	left: 810px;
+	top: 2330px;
+	width: 1500px;
+	font-weight: 300;
+	font-size: 56px;
+	color: rgb(0,113,188);
+	line-height: 90px;
+	text-align: left;
+}
+
+h1 {
+	font-size: 110px;
+	margin-top: -10px;
+}
+ 
+
+ 
