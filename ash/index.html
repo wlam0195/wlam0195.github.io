@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title>Inbox: (1) New Message</title>
+   <div style="background-image: url('background.png');">
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+
+
+.flip-card {
+  background-color: transparent;
+  width: 829px;
+  height: 553px;
+  left: 300px;
+  perspective: 1000px;
+}
+
+.flip-card-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  transition: transform 0.6s;
+  transform-style: preserve-3d;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  left: 300px;
+  top: 120px;
+}
+
+.flip-card:hover .flip-card-inner {
+  transform: rotateY(180deg);
+}
+
+.flip-card-front, .flip-card-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+}
+
+.flip-card-front {
+  background-color: white;
+  color: white;
+}
+
+.flip-card-back {
+  background-color: white;
+  color: white;
+  transform: rotateY(180deg);
+}
+</style>
+</head>
+<body>
+<a href="letter.html"><div class="flip-card">
+  <div class="flip-card-inner">
+    <div class="flip-card-front">
+      <img src="address.png" alt="Avatar" style="width:829px;height:559px;">
+    </div>
+    <div class="flip-card-back">
+      <img src="envelopeback.png" alt="Open Me" style="width:830px;height:554px;">
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

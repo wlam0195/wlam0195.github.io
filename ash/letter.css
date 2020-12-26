@@ -1,0 +1,67 @@
+body {
+	width: 100vw;
+	height: 100vw;
+	overflow: hidden;
+}
+
+.background {
+	position: absolute;
+	background-image: url(background.png);
+	top: 10px;
+	height: 500px;
+	width: 1200px;
+	background-size: 150% 150%
+}
+.background2 {
+	position: absolute;
+	background-image: url(background.png);
+	top: 333px;
+	height: 450px;
+	width: 1050px;
+	left: 820px;
+	background-size: 150% 150%
+}
+
+.letter {
+	position: absolute;
+	background-image: url(letter2.png);
+	top: 27px;
+	left: 160px;
+	height: 762px;
+	width: 660px;
+	background-size: 100% 100%
+}
+
+.card {
+	position: absolute;
+	background-image: url(cardanim);
+	top: 8px;
+	left: 830px;
+	height: 350px;
+	width: 533px;
+	background-size: 100% 100%
+}
+
+.photos {
+	position: absolute;
+	background-image: url(photos.png);
+	top: 350px;
+	left: 840px;
+	height: 415px;
+	width: 520px;
+	background-size: 100% 100%
+}
+
+.home {
+	position: absolute;
+	background-image: url(home.png);
+	top: 685px;
+	left: -147px;
+	height: 100px;
+	width: 360px;
+	background-size: 100% 100%
+}
+
+
+
+
