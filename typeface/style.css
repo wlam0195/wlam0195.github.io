@@ -117,7 +117,7 @@ p {
 .rbottom {
 	height: 36.7209px;
 	width: 36.7209px;
-	background-color: black;
+	background-color:#414042;
 	border-radius: 50%;
 	top: 130px;
 	left: 198px;
@@ -135,7 +135,7 @@ p {
 .rleft {
 	height: 67px;
 	width: 40px;
-	background-color: black;
+	background-color:#414042;
 	border-radius: 50%;
 	top: 100px;
 	left: 167px;
@@ -153,7 +153,7 @@ p {
 .rtail {
 	height: 13px;
 	width: 25px;
-	background-color: black;
+	background-color:#414042;
 	border-radius: 50%;
 	top: 101px;
 	left: 170px;
@@ -163,7 +163,7 @@ p {
 .atop {
 	height: 67.572px;
 	width: 40.042px;
-	background-color: black;
+	background-color:#414042;
 	border-radius: 50%;
 	top: 147px;
 	left: 310px;
@@ -181,7 +181,7 @@ p {
 .aleft {
 	height: 65.8072px;
 	width: 44px;
-	background-color: black;
+	background-color:#414042;
 	border-radius: 50%;
 	top: 151px;
 	left: 279px;
@@ -204,7 +204,7 @@ p {
 .atail {
 	height: 23px;
 	width: 12px;
-	background-color: black;
+	background-color:#414042;
 	border-radius: 50%;
 	top: 144px;
 	left: 330px;
@@ -215,7 +215,7 @@ p {
 .nright {
 	height: 63px;
 	width: 45px;
-	background-color: black;
+	background-color:#414042;
 	border-radius: 50%;
 	top: 151px;
 	left: 390px;
@@ -235,7 +235,7 @@ p {
 .nmid {
 	height: 68px;
 	width: 47px;
-	background-color: black;
+	background-color:#414042;
 	border-radius: 50%;
 	top: 143px;
 	left: 366px;
@@ -246,7 +246,7 @@ p {
 .nmid2 {
 	height: 40px;
 	width: 36px;
-	background-color: white;
+	background-color:#414042;
 	border-radius: 50%;
 	top: 183px;
 	left: 375px;
@@ -256,7 +256,7 @@ p {
 .nleft {
 	height: 62px;
 	width: 43px;
-	background-color: black;
+	background-color:#414042;
 	border-radius: 50%;
 	top: 154px;
 	left: 359px;
@@ -266,7 +266,7 @@ p {
 .nleft2 {
 	height: 54px;
 	width: 30px;
-	background-color: white;
+	background-color:#414042;
 	border-radius: 50%;
 	top: 150px;
 	left: 353px;
@@ -277,7 +277,7 @@ p {
 .ntail {
 	height: 24px;
 	width: 13px;
-	background-color: black;
+	background-color:#414042;
 	border-radius: 50%;
 	top: 144px;
 	left: 365px;
@@ -289,7 +289,7 @@ p {
 .gbody {
 	height: 71.5728px;
 	width: 62px;
-	background-color: black;
+	background-color:#414042;
 	border-radius: 50%;
 	top: 145px;
 	left: 446.25px;
@@ -312,7 +312,7 @@ p {
 .gtail {
 	height: 24px;
 	width: 22px;
-	background-color: black;
+	background-color:#414042;
 	border-radius: 50%;
 	top: 166.75px;
 	left: 486.25px;
@@ -334,7 +334,7 @@ p {
 .gear {
 	height: 25px;
 	width: 12px;
-	background-color: black;
+	background-color:#414042;
 	border-radius: 50%;
 	top: 141px;
 	left: 482px;
@@ -344,7 +344,7 @@ p {
 .etop {
 	height: 42.0678px;
 	width: 35.8479px;
-	background-color: black;
+	background-color:#414042;
 	border-radius: 100%;
 	top: 100px;
 	left: 101px;
@@ -355,7 +355,7 @@ p {
 .ebottom {
 	height: 52px;
 	width: 40.5552px;
-	background-color: black;
+	background-color:#414042;
 	border-radius: 100%;
 	top: 126px;
 	left: 93px;
@@ -388,7 +388,7 @@ p {
 .etail {
 	height: 21px;
 	width: 11px;
-	background-color: black;
+	background-color:#414042;
 	border-radius: 50%;
 	top: 100px;
 	left: 120.5px;
@@ -398,7 +398,7 @@ p {
 .srbottom {  
 	height: 30.923px;
 	width: 43.3247px;
-	background-color: black;
+	background-color:#414042;
 	border-top-left-radius: 50% 100%;
 	border-top-right-radius: 50% 100%;
 	border-bottom-right-radius: 0;
@@ -411,7 +411,7 @@ p {
 .sbottom {  
 	height: 24px;
 	width: 52px;
-	background-color: black;
+	background-color:#414042;
 	border-top-left-radius: 50% 100%;
 	border-top-right-radius: 50% 100%;
 	border-bottom-right-radius: 0;
@@ -434,7 +434,7 @@ p {
 .sltop {  
 	height: 31.8644px;
 	width: 36.01973px;
-	background-color: black;
+	background-color:#414042;
 	border-top-left-radius: 50% 100%;
 	border-top-right-radius: 50% 100%;
 	border-bottom-right-radius: 0;
@@ -447,7 +447,7 @@ p {
 .stop {  
 	height: 19.8843px;
 	width: 48.9561px;
-	background-color: black;
+	background-color:#414042;
 	border-top-left-radius: 50% 100%;
 	border-top-right-radius: 50% 100%;
 	border-bottom-right-radius: 0;
@@ -479,7 +479,7 @@ p {
 .stail {  
 	height: 18px;
 	width: 11px;
-	background-color: black;
+	background-color:#414042;
 	border-radius: 50%;
 	top: 62px;
 	left: 121px;
@@ -490,7 +490,7 @@ p {
 .smid {  
 	height: 6px;
 	width: 38px;
-	background-color: black;
+	background-color:#414042;
 	border-radius: 50%;
 	top: 93.5px;
 	left: 92px;
@@ -501,7 +501,7 @@ p {
 .smid2 {  
 	height: 5px;
 	width: 33.5501px;
-	background-color: black;
+	background-color:#414042;
 	border-radius: 50%;
 	top: 94.25px;
 	left: 92px;
