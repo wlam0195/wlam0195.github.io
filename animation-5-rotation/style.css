@@ -1,0 +1,54 @@
+body { 
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+  background-color: rgb(0,0,100);
+}
+
+.hour {
+  position: absolute;
+  top: 20vw;
+  left: 10vw;
+  width: 80vw;
+  height: 80vw;
+  background-color: rgb(0,0,150);
+  animation-name: animationA;
+  animation-duration: 1800s;  
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;  
+}
+
+.minute {
+  position: absolute;
+  top: 51.5vw;
+  left: 30vw;
+  width: 40vw;
+  height: 40vw;
+  background-color: rgb(0,0,200);
+  animation-name: animationA;
+  animation-duration: 500s; 
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;  
+}
+
+.second {
+  position: absolute;
+  top: 64vw;
+  left: 42.5vw;
+  width: 15vw;
+  height: 15vw;
+  background-color: rgb(0,0,250);
+  animation-name: animationA;
+  animation-duration: 1s; 
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+}
+
+@keyframes animationA {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
