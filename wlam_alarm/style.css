@@ -1,0 +1,112 @@
+body { 
+  margin: 0;
+  padding: 0;
+  background-color: rgb(0,0,50);
+}
+
+.red {
+  top: 0vw;
+  left: 24vw;
+  width: 100vw;
+  height: 100vw;
+  background-color: rgb(30,0,0);
+  opacity: 0;
+}
+
+.hour {
+  position: absolute;
+  top: 8.5vw;
+  left: 24vw;
+  width: 50vw;
+  height: 40vw;
+  animation-name: spin;
+  animation-duration: 500s;   
+  animation-iteration-count: infinite;
+  background-color: rgb(0, 0, 100);
+  overflow: hidden;
+}
+
+.minute {
+  position: absolute;
+  top: 12vw;
+  left: 10vw;
+  width: 30vw;
+  height: 20vw;
+  animation-name: spin;
+  animation-duration: 250s;  
+  animation-iteration-count: infinite;
+  background-color: rgb(0, 0, 200);   
+  overflow: hidden; 
+}
+
+.second {
+  position: absolute;
+  top: 8vw;
+  left: 10vw;
+  width: 10vw;
+  height: 5vw;
+  animation-name: spin;
+  animation-duration: 1s;
+  animation-iteration-count: infinite;
+  background-color: rgb(0, 0, 300);   
+  overflow: hidden; 
+}
+
+.snooze {
+  position: absolute;
+  left: 670px;
+  top: 420px;
+  opacity: 0;
+  color: rgb(255,205,0);
+  text-align: center;
+  line-height: 50px;
+  font-family: Helvetica;
+}
+
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.hour.alarm {
+  background-color: rgb(50, 0, 0);
+  animation-name: spinAlarm;
+  animation-duration: 200s;
+}
+
+.minute.alarm {
+  background-color: rgb(150, 0, 0); 
+  animation-name: spinAlarm;
+  animation-duration: 125s;
+}
+
+.second.alarm {
+  background-color: rgb(300, 0, 0); 
+  animation-name: spinAlarm;
+  animation-duration: .5s;
+}
+
+.snooze.alarm {
+  opacity: 1;
+}
+
+.red.alarm {
+  opacity: 1;
+}
+
+@keyframes spinAlarm {
+  0% {
+    transform: rotate(0deg) scale(1);
+  }
+  50% {
+    transform: rotate(-180deg) scale(2.2);
+  }
+  100% {
+    transform: rotate(-360deg) scale(1);
+  }
+}
